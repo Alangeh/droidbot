@@ -1,6 +1,6 @@
 import logging
 import os
-import hashlib
+import hashlib #to provide use of secure hashes and message digests like md5 and sha224
 from intent import Intent
 
 
